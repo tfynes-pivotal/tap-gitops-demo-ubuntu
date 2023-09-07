@@ -1,0 +1,28 @@
+apiVersion: ENC[AES256_GCM,data:u2U=,iv:/JA02K80/HyP4Xh9M1r3+LCaVAqt/F8FxEQGV36lbIo=,tag:MzaLdg6HtAbC2OB4k0XXig==,type:str]
+kind: ENC[AES256_GCM,data:hyVTf56I,iv:Tjy6lsxnTVB3Uh2rlSeCNk6CrW/a8+AaeiYe4TjwRKE=,tag:vqhv3mB0mL7mhNi1p/VSSg==,type:str]
+metadata:
+    name: ENC[AES256_GCM,data:3CyKeE4ziD+5xdgaNlnycHWTYHxpkxM2aGQ=,iv:qB4D7OwTweRWkaI+bMfUmIZdPdWL6GtScIn0sPmZikM=,tag:lrR5BQDuRX+TnvJLaJ6NBA==,type:str]
+    namespace: ENC[AES256_GCM,data:2et6hAs6q6XO5dA=,iv:lhNLp7k/XpDtr4Ro7idu5TZW0K3BFal5M3HBdMzz/AE=,tag:tA9RAFvDoMkPCOn5XXwKlQ==,type:str]
+type: ENC[AES256_GCM,data:HF+8nO+gJcxt64HMLgFiRuUj1Jxva/2SkZIa+QXX,iv:Hi8XeP0M1EAko5bATKS1w5cqmdsxiDhzR+G6/kroEnI=,tag:vDrzmr89RvH5w5Nl2u+9EA==,type:str]
+data:
+    .dockerconfigjson: ENC[AES256_GCM,data:WTAiyp1rL4EU8ZdJCiDTyzv0v+mGAIbn0KdyzfAaLoS1XpdGkC/O8KHCJRbXTk1Pvjx/LZcACNxO0hS6y3boR71BEEnIY0gX6ZV1gWhgFvko3W0Mc1yZgGP44eF5egHcOtwM/oUn4PCHMAoKA0ZCROygjd+F7VSquRUE3olB1j5UubayYpRyxkqIj5YvVfiyIXrczKufACY++2vvqhBYWGIX2i8haLdMGx3O8w9/7OiIyIQ8+/GFRkaRlkEozZGFnAlCHu21vqVxPw3PHPe5B9GsNq5MaGYTBXS7QRnIw3CokHNYR4eT8LecyV92TDQxPtcx8Q==,iv:JL+cb41XN0gwshxerDTq2CvSqyRZmtLcOGjhELbYwYY=,tag:sC41i0NwbcAgNrhqWOcx1A==,type:str]
+sops:
+    kms: []
+    gcp_kms: []
+    azure_kv: []
+    hc_vault: []
+    age:
+        - recipient: age1u74ps32m3mcvd6zjaw8w2p3wwfucz0r2rxrsxmq8ldlyv5lapgkqle505u
+          enc: |
+            -----BEGIN AGE ENCRYPTED FILE-----
+            YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBNOHBNTEQ5dFZHb0xsYXBC
+            M3dITTNXcVZwVE5OU0M0TU5wbDNnc2QwbFRNCi9XN2ZNUlhyOTRqRURLcmp2RnFD
+            WEFCakNjSXd2RDh4N05XekFLeDFoU1UKLS0tIDVGK1pVSHFUZ3NRaFFYU3NuYi9t
+            MjlEaXphemlNWExFeW5keDRXVC9aaTgKg/2dT4Zce3Myw16twlo5KWcfsPMAh8YN
+            HBpg4Zh77XX/mOnjesjZSJqByMIHwM7sYJ0qC2dFGEMR/XgKKflrGQ==
+            -----END AGE ENCRYPTED FILE-----
+    lastmodified: "2023-09-07T21:25:52Z"
+    mac: ENC[AES256_GCM,data:bZWKzVSI8/c03kf9dRrE0YMNyQ3zqRydEy5CzvByU3W7jujB6rHM9mUK6KL7Vpq5gKFGL29PA7VyiwGgdtmXlA1pE05oBB6+gQ5qfaqfLoVUgRkJF2UfHxwo8R86pHbG76gzTvvs5q7aTgzQg2G45AWWKNk+2p7se1lojyi3CgA=,iv:gL0Sq2p9AKOD+astXJGc4yjZeB78f/xRp3rrfyWfx7M=,tag:7d9QmbwdGSgyPF8Ebs9OUA==,type:str]
+    pgp: []
+    unencrypted_suffix: _unencrypted
+    version: 3.8.0-rc.1
