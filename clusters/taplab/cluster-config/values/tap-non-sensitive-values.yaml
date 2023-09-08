@@ -1,9 +1,9 @@
 tap_install:
   values:
     excluded_packages:
-      - learningcenter.tanzu.vmware.com
-      - workshops.learningcenter.tanzu.vmware.com
-      - eventing.tanzu.vmware.com
+    - learningcenter.tanzu.vmware.com
+    - workshops.learningcenter.tanzu.vmware.com
+    - eventing.tanzu.vmware.com
 
     shared:
       ingress_domain: ubuntulab2.tap.fynesy.com
