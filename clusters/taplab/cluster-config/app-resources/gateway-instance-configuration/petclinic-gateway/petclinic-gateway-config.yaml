@@ -23,4 +23,4 @@ spec:
     groupId: petclinic
     cors:
       allowedOrigins:
-      - https://api-portal.ubuntulab.tap.fynesy.com
+      - https://api-portal.ubuntulab2.tap.fynesy.com

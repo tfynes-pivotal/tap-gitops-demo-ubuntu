@@ -11,6 +11,6 @@ spec:
     - name: petclinic-gateway
       port: 80
   virtualhost:
-    fqdn: petclinic.ubuntulab.tap.fynesy.com
+    fqdn: petclinic.ubuntulab2.tap.fynesy.com
     tls:
       secretName: petclinic-gateway-tls-cert

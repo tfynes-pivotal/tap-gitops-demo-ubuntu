@@ -1,7 +1,7 @@
 tap_install:
   values:
     shared:
-      ingress_domain: ubuntulab.tap.fynesy.com
+      ingress_domain: ubuntulab2.tap.fynesy.com
       ingress_issuer: letsencrypt-production
     ceip_policy_disclosed: true
     profile: full

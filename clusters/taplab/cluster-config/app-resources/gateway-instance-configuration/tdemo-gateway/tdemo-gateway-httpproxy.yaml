@@ -11,6 +11,6 @@ spec:
     - name: tdemo-gateway
       port: 80
   virtualhost:
-    fqdn: tdemo.ubuntulab.tap.fynesy.com
+    fqdn: tdemo.ubuntulab2.tap.fynesy.com
     tls:
       secretName: tdemo-gateway-tls-cert
